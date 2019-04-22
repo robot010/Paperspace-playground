@@ -5,7 +5,7 @@ import os
 print(os.getcwd())
 print(os.listdir())
 print(os.listdir("/storage"))
-a = pd.read_csv("/storage/s97lz6k5/favourita/stores.csv")
+a = pd.read_csv("/storage/favourita/stores.csv")
 print(a.head())
 
 
